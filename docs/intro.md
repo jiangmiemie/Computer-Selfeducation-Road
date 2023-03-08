@@ -2,24 +2,24 @@
 sidebar_position: 1
 ---
 
+# Introduce
 
-# 介绍
+There are many tutorials about computer learning, but there is not a complete enough tutorial when I study.
 
-关于计算机学习的教程非常之多，但是在我学习的时候并没一个足够完整的教程。所以有了本教程，它记录了我自学计算机的完整路径，我参考了复旦大学计算机系同学在高校中的学习路径，额外列举一些我学习过程和后续工作中的知识，并推荐给你最好的官方文档，我会避免生产粗制滥造的个人教程。目前正在更新中文文档部分。
+So with this tutorial, it records the complete path of my self-study of computer. I refer to the learning path of students in the computer department of Fudan University in colleges and universities, list some additional knowledge in my learning process and follow-up work, and recommend the best official documents to you. I will avoid producing crude personal tutorials. Currently, the Chinese document is being updated to English.
 
+- Project's web page：https://jiangmiemie.github.io/Computer-Selfeducation-Road/
 
-- 该项目的网页版：https://jiangmiemie.github.io/Computer-Selfeducation-Road/
+## About me
 
+Language: Chinese/English
 
-## 关于我
+Development language: Python/C++
 
-- 语言：中文/英文
-- 开发方向：全栈工程师
-- 开发语言：Python/C++
-- 学位：管理学学士、电子信息硕士(在考)
+Degree: Bachelor of Management, Master of Electronic Information (under examination)
 
-## 联系我
+## Talk with me
 
-- 邮箱：jiangyangcreate@gmail.com
-- 个人网站：https://www.jiangmiemie.com
+- E-mail：jiangyangcreate@gmail.com
+- Blog：https://www.jiangmiemie.com
 - Github：https://github.com/jiangmiemie

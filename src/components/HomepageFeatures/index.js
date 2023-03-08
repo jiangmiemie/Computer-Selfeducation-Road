@@ -5,29 +5,29 @@ import styles from './styles.module.css';
 const FeatureList = [
 
   {
-    title: '系统',
+    title: 'System',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-      系统化的自学路径,对比全网不同的教程
+      Systematic Selfeducation , comparing different tutorials across the network
       </>
     ),
   },
   {
-    title: '简洁',
+    title: 'pithily',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-      没有多余的文字
+      No extra text
       </>
     ),
   },
   {
-    title: '开源',
+    title: 'Open Source',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-      网站全部内容均在Github存储库公开
+      All content of the website is published in Github repository
       </>
     ),
   },
