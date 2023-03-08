@@ -26,5 +26,6 @@ jobs:
       - uses: actions/checkout@master
       - uses: redkubes/docusaurus-deploy-action@v1
         with:
+          source-folder: Computer-Selfeducation-Road
           git-user: jiangmiemie
           deployment-branch: gh-pages
